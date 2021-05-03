@@ -1,4 +1,4 @@
-FROM ekidd/rust-musl-builder:1.50.0
+FROM ekidd/rust-musl-builder:1.51.0
 
 USER root
 
