@@ -4,6 +4,7 @@ Rust MUSL Builder Action
 ![GitHub](https://img.shields.io/github/license/aig787/rust-musl-builder)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/aig787/rust-musl-builder)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/aig787/rust-musl-builder/CI)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/aig787/rust-musl-builder)
 
 GitHub action for building statically linked rust binaries (x86_64-unknown-linux-musl) Based on [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder).
 
